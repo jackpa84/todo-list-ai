@@ -1,0 +1,6 @@
+.env
+./src/.env
+./src/node_modules
+./src/vendor
+.idea
+.DS_Store
